@@ -1,0 +1,122 @@
+The ORL face database
+---------------------
+
+This directory contains a set of faces taken between April 1992 and
+April 1994 at the Olivetti Research Laboratory in Cambridge, UK.
+
+There are 10 different images of 40 distinct subjects. For some of the
+subjects, the images were taken at different times, varying lighting
+slightly, facial expressions (open/closed eyes, smiling/non-smiling)
+and facial details (glasses/no-glasses).  All the images are taken
+against a dark homogeneous background and the subjects are in
+up-right, frontal position (with tolerance for some side movement).
+
+The files are in PGM format and can be conveniently viewed using the 'xv'
+program. The size of each image is 92x112, 8-bit grey levels. The images
+are organised in 40 directories (one for each subject) named as:
+
+		sX
+
+where X indicates the subject number (between 1 and 40). In each directory
+there are 10 different images of the selected subject named as:
+
+		Y.pgm
+
+where Y indicates which image for the specific subject (between 1 and 10).
+
+When using these images, please give credit to Olivetti Research Laboratory.
+A convenient reference is the face recognition work which uses some of
+these images:
+
+ F. Samaria and A. Harter 
+  "Parameterisation of a stochastic model for human face identification"
+  2nd IEEE Workshop on Applications of Computer Vision
+  December 1994, Sarasota (Florida).
+
+The paper is available via anonymous ftp from quince.cam-orl.co.uk and is
+stored in pub/users/fs/IEEE_workshop.ps.Z
+
+If you have any question, please email Ferdinando Samaria: fs@cam-orl.co.uk
+翻译关闭即时翻译
+
+The ORL face database
+---------------------
+
+This directory contains a set of faces taken between April 1992 and
+April 1994 at the Olivetti Research Laboratory in Cambridge, UK.
+
+There are 10 different images of 40 distinct subjects. For some of the
+subjects, the images were taken at different times, varying lighting
+slightly, facial expressions (open/closed eyes, smiling/non-smiling)
+and facial details (glasses/no-glasses).  All the images are taken
+against a dark homogeneous background and the subjects are in
+up-right, frontal position (with tolerance for some side movement).
+
+The files are in PGM format and can be conveniently viewed using the 'xv'
+program. The size of each image is 92x112, 8-bit grey levels. The images
+are organised in 40 directories (one for each subject) named as:
+
+		sX
+
+where X indicates the subject number (between 1 and 40). In each directory
+there are 10 different images of the selected subject named as:
+
+		Y.pgm
+
+where Y indicates which image for the specific subject (between 1 and 10).
+
+When using these images, please give credit to Olivetti Research Laboratory.
+A convenient reference is the face recognition work which uses some of
+these images:
+
+ F. Samaria and A. Harter 
+  "Parameterisation of a stochastic model for human face identification"
+  2nd IEEE Workshop on Applications of Computer Vision
+  December 1994, Sarasota (Florida).
+
+The paper is available via anonymous ftp from quince.cam-orl.co.uk and is
+stored in pub/users/fs/IEEE_workshop.ps.Z
+
+If you have any question, please email Ferdinando Samaria: fs@cam-orl.co.uk
+
+
+1579/5000
+ORL面部数据库
+---------------------
+
+这个目录包含一组在1992年4月和之间拍摄的面孔
+1994年4月在英国剑桥的Olivetti研究实验室工作。
+
+有40个不同科目的10个不同图像。对于一些人
+受试者，图像是在不同时间拍摄的，不同的照明
+面部表情（开眼/闭眼，微笑/不微笑）
+和面部细节（眼镜/无眼镜）。拍摄所有图像
+在黑暗的同质背景下，受试者在
+右上方，正面位置（有一些侧向移动的公差）。
+
+文件采用PGM格式，可以使用'xv'方便地查看
+程序。每幅图像的尺寸为92x112,8位灰度。图像
+被组织在40个目录中（每个主题一个）命名为：
+
+SX
+
+其中X表示主题编号（1到40之间）。在每个目录中
+所选主题有10个不同的图像命名为：
+
+Y.pgm
+
+其中Y表示特定主题的图像（1到10之间）。
+
+使用这些图像时，请归功于Olivetti研究实验室。
+一个方便的参考是使用一些的面部识别工作
+这些图片：
+
+ F. Samaria和A. Harter
+  “用于人脸识别的随机模型的参数化”
+  第二届IEEE计算机视觉应用研讨会
+  1994年12月，萨拉索塔（佛罗里达州）。
+
+这篇论文可以通过quince.cam-orl.co.uk的匿名ftp获得
+存储在pub / users / fs / IEEE_workshop.ps.Z中
+
+如果您有任何疑问，请发送电子邮件至Ferdinando Samaria：fs@cam-orl.co.uk
